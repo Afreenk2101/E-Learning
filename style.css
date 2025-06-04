@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+.navbar { background: #004aad; color: white; padding: 1rem; display: flex; justify-content: space-between; align-items: center; }
+.nav-links { list-style: none; display: flex; gap: 1rem; }
+.nav-links a { color: white; text-decoration: none; }
+.hero { padding: 3rem; text-align: center; background: #e0e0e0; }
+.hero h1 { font-size: 2.5rem; }
+.btn { display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background: #004aad; color: white; border-radius: 5px; text-decoration: none; }
+.page-title { text-align: center; margin: 2rem 0 1rem; }
+.course-list, .progress-list, .video-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; padding: 1rem; }
+.course-card, .progress-item, .video-item { background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.footer { text-align: center; padding: 1rem; background: #222; color: white; margin-top: 2rem; }
+.certificate-box { background-color: white; padding: 3rem; margin: 2rem auto; width: 80%; max-width: 600px; text-align: center; border: 3px solid #004aad; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
