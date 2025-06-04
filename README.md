@@ -36,5 +36,7 @@ This E-Learning Platform UI showcases how effective and aesthetically pleasing w
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/89f88f80-07c3-4d3a-b895-fb8dceb11594)
+
 
 
